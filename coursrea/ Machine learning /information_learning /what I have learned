@@ -13,3 +13,6 @@
 
 it uses the information with the help of graph to determin the output of on with the respect of the inputs such as a function of f(x,y)
   where x,y or parameters could be more then 1 
+
+
+it yses the numpie librairy supportes with pythone library 
